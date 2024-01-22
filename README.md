@@ -6,9 +6,9 @@ This project allows you to turn on/off the torch of your smartphone via web, by 
 2. You must have nodejs installed
 3. Clone this repository
 4. Run this command
-'''
+```
 npm run test
-'''
+```
 5. Open a web browser then type [http://localhost:3000/](http://localhost:3000/)
 
 That's it go f*ck yourself.
