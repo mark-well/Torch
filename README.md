@@ -5,10 +5,14 @@ This project allows you to turn on/off the torch of your smartphone via web, by 
 1. You must have termux and termux:api app installed
 2. You must have nodejs installed
 3. Clone this repository
-4. Run this command
+4. Cd to the repository
+```
+cd Torch
+```
+5. Run this command
 ```
 npm run test
 ```
-5. Open a web browser then type [http://localhost:3000/](http://localhost:3000/)
+6. Open a web browser then type [http://localhost:3000/](http://localhost:3000/)
 
 That's it go f*ck yourself.
